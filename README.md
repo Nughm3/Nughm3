@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently improving my Python skills and learning JavaScript.
 
 <!--
 **Nughm3/Nughm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
