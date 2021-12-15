@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently improving my Python skills and learning Rust and C++. I use Emacs and Neovim
+I'm currently improving my Python skills and learning Rust and C++. I use Neovim as my editor on Linux.
 
 <!--
 **Nughm3/Nughm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
